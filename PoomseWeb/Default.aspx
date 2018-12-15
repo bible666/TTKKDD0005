@@ -56,7 +56,7 @@
         </table>
     </div>
     
-    ผู้เข้าแข่งขัน 1
+    <%--ผู้เข้าแข่งขัน 1
     <div>
         <table>
             <tr>
@@ -90,8 +90,11 @@
                 </td>
             </tr>
         </table>
-    </div>
+    </div>--%>
 	
+	<asp:RadioButton ID="Auther1" GroupName="Auther" runat="server" Text="1 คน" Checked />
+    <asp:RadioButton ID="Auther2" GroupName="Auther" runat="server" Text="2 คน" />
+    <br />
     &nbsp;<asp:Button ID="Button1" runat="server" Text="OK" />
     </form>
 </body>

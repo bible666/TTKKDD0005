@@ -17,8 +17,8 @@
         AutherName2 = Request.QueryString("AutherName2")
 
         lblJudge.Text = Judge
-        Auther1.Text = AutherId1 & " : " & AutherName1
-        Auther2.Text = AutherId2 & " : " & AutherName2
+        'Auther1.Text = AutherId1 & " : " & AutherName1
+        'Auther2.Text = AutherId2 & " : " & AutherName2
         If ScoreTpye = _Default.ScoreType.Acc_4_Pre_6 Then
             lblAccAuther1.Text = "4.00"
             lblAccAuther2.Text = "4.00"

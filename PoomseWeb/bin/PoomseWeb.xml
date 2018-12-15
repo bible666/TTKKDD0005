@@ -6,7 +6,47 @@ PoomseWeb
 </name>
 </assembly>
 <members>
-<member name="F:PoomseWeb.ProcessInput2.Head1">
+<member name="F:PoomseWeb.ProcessInput1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PoomseWeb.ProcessInput1.lblAccAuther1">
+	<summary>
+lblAccAuther1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PoomseWeb.ProcessInput1.lblPreAuther1">
+	<summary>
+lblPreAuther1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PoomseWeb.ProcessInput1.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PoomseWeb.ProcessInput1.lblJudge">
+	<summary>
+lblJudge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PoomseWeb.ProcessInput2.Head1">
 	<summary>
 Head1 control.
 </summary>
@@ -198,33 +238,17 @@ rdbType2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:PoomseWeb._Default.AutherId1">
+</member><member name="F:PoomseWeb._Default.Auther1">
 	<summary>
-AutherId1 control.
+Auther1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:PoomseWeb._Default.AutherName1">
+</member><member name="F:PoomseWeb._Default.Auther2">
 	<summary>
-AutherName1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:PoomseWeb._Default.AutherId2">
-	<summary>
-AutherId2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:PoomseWeb._Default.AutherName2">
-	<summary>
-AutherName2 control.
+Auther2 control.
 </summary>
 	<remarks>
 Auto-generated field.

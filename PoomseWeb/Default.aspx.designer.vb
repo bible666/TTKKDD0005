@@ -115,40 +115,22 @@ Partial Public Class _Default
     Protected WithEvents rdbType2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''AutherId1 control.
+    '''Auther1 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents AutherId1 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents Auther1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''AutherName1 control.
+    '''Auther2 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents AutherName1 As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''AutherId2 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents AutherId2 As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''AutherName2 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents AutherName2 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents Auther2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Button1 control.

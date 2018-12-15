@@ -36,6 +36,15 @@
             ScoreType = _Default.ScoreType.Acc_6_Pre_4
         End If
 
-        Response.Redirect("ProcessInput.aspx?Judge=" & Judge & "&ScoreType=" & ScoreType & "&AutherId1=" & AutherId1.Text.Trim & "&AutherName1=" & AutherName1.Text.Trim & "&AutherId2=" & AutherId2.Text.Trim & "&AutherName2=" & AutherName2.Text.Trim)
+        If Auther1.Checked Then
+            Response.Redirect("ProcessInput1.aspx?Judge=" & Judge & "&ScoreType=" & ScoreType)
+        Else
+            'Response.Redirect("ProcessInput2.aspx?Judge=" & Judge & "&ScoreType=" & ScoreType & "&AutherId1=" & AutherId1.Text.Trim & "&AutherName1=" & AutherName1.Text.Trim & "&AutherId2=" & AutherId2.Text.Trim & "&AutherName2=" & AutherName2.Text.Trim)
+            Response.Redirect("ProcessInput2.aspx?Judge=" & Judge & "&ScoreType=" & ScoreType)
+        End If
+        
+
     End Sub
+
+   
 End Class

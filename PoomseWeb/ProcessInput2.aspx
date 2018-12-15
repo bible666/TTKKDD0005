@@ -211,7 +211,8 @@
 
                     if (window.confirm("Do you want to confirm?") == true) {
                         var jude;
-           
+                        jude = $("#<%=lblJudge.ClientID %>").text();
+                        
                         getData = "Jude=" + jude;
                         getData += "&Auther1_Acc=" + Auther1_Acc + "&Auther1_Pre=" + Auther1_Pre;
                         getData += "&Auther2_Acc=" + Auther2_Acc + "&Auther2_Pre=" + Auther2_Pre;
@@ -388,7 +389,7 @@
     <form id="form1" runat="server">
     <div>
         <table>
-            <!-- Auther Name -->
+           <%-- <!-- Auther Name -->
             <tr>
                 <td style="font-family: Tahoma; color: #0000FF; text-align: center; font-size: 36px;" class="style6">
                     <asp:Label ID="Auther1" runat="server" Text="4.0" Font-Size="40pt" ForeColor="Gold"></asp:Label>
@@ -398,7 +399,7 @@
                 <td style="color: #FF0000; text-align: center; font-size: 36px;" class="style7">
                     <asp:Label ID="Auther2" runat="server" Text="4.0" Font-Size="40pt" ForeColor="white"></asp:Label>
                 </td>
-            </tr>
+            </tr>--%>
             
             <tr>
                 <td style="font-family: Tahoma; color: #0000FF; text-align: center; font-size: 36px;"
