@@ -1,0 +1,585 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TKD_Poomse
+</name>
+</assembly>
+<members>
+<member name="T:TKD_Poomse.dsM">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:TKD_Poomse.clsJoyControl.GetAccScore(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Get Acc Score ปัจจุบัน
+ </summary>
+	<param name="JoyNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.isOpen">
+	<summary>
+ Check Open Database Status
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.closeDB">
+	<summary>
+ Close connection
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.runSQL(System.String,System.Collections.Hashtable,System.String@)">
+	<summary>
+ ใช้ในการ Insert OR Update Data Base
+ </summary>
+	<param name="sSQL">Quiry ในการ Insert Or Update</param>
+	<param name="pParameter">Parameter ที่ใช้แทน ตัว @ddd ใน Quiry</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.getData(System.String,System.Collections.Hashtable,System.Data.DataSet@,System.Boolean,System.String@)">
+	<summary>
+ ใช้ในการ หาข้อมูลจาก Data Base
+ </summary>
+	<param name="pSql">Quiry สำหรับหาใน Data Base </param>
+	<param name="pParameter">ตัวแปลที่ใช้แทน @ddd ใน pSql </param>
+	<param name="pDataSet">คืนค่า ที่ค้นหาได้</param>
+	<param name="ShowError">ให้แสดง Error หรือเปล่า</param>
+	<param name="pErr">ค่า Error ที่ส่งกลับมา</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.CreatePrimaryKey(System.Data.DataTable@,System.Data.DataColumn[],System.String@)">
+	<summary>
+ ใช้สำหรับ สร้าง Primary Key ให้กับ Data Table เพื่อเพิ่มความเร็วในการ Search
+ </summary>
+	<param name="dt">Data Table ที่ต้องการสร้าง Primary Key</param>
+	<param name="Columns">Columns ที่จะสร้างเป็น Primary Key</param>
+	<param name="pErr">Error Meesage</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.CreatePrimaryKey(System.Data.DataTable@,System.String,System.String@)">
+	<summary>
+ ใช้สำหรับ สร้าง Primary Key ให้กับ Data Table เพื่อเพิ่มความเร็วในการ Search
+ </summary>
+	<param name="dt">Data Table ที่ต้องการสร้าง Primary Key</param>
+	<param name="Columns">Columns ที่จะสร้างเป็น Primary Key Ex. Col1,Col2,Col3</param>
+	<param name="pErr">Error Meesage</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.getData(System.String,System.Data.DataSet@,System.Boolean,System.String@,System.Int32@)">
+	<summary>
+ ใช้ในการดึงข้อมูลจาก Database
+ </summary>
+	<param name="sSQL">Query ที่ใช้ดึงข้อมูล</param>
+	<param name="pDataSet">ข้อมูลที่ได้จาก Database</param>
+	<param name="ShowError">แสดงหรือไม่แสดง Error</param>
+	<param name="pErr">String Error</param>
+	<param name="CountError">Error Count</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.Util.DBUtil_SQL.ConvertType(System.String)">
+	<summary>
+ Convert VB Type TO DB Type
+ </summary>
+	<param name="Type">Type From VB</param>
+	<returns>DB Type</returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.clr">
+	<summary>
+ Clear Value in All Field
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.updKey(System.String,System.String@)">
+	<summary>
+ Update Field Where By Primary Key
+ </summary>
+	<param name="strSet">Set Columns Value Ex. A = 'B'</param>
+	<param name="pErr">Error Message</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.delKey">
+	<summary>
+ Delete Data By Primary Key
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.chkKey">
+	<summary>
+ Check Duplicate Primary Key
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getKey">
+	<summary>
+ Get Data By Primary Key
+ ถ้าหาเจอ จะ set Field ด้วยค่าที่หาได้
+ </summary>
+	<returns>True หาเจอ False หาไม่เจอ</returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.setRec(System.Data.DataRow)">
+	<summary>
+ set value จาก data row ไปยังตัวแปร Field
+ </summary>
+	<param name="row"></param>
+	<returns>Boolean</returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.row2Rec(System.Data.DataRow)">
+	<summary>
+ set value จาก data row ไปยังตัวแปร Field
+ </summary>
+	<param name="row"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.setValue(System.Data.DataRow)">
+	<summary>
+ set value จาก data row ไปยังตัวแปร Field
+ </summary>
+	<param name="dr"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.insRec(System.String@)">
+	<summary>
+ Insert Data 1 Row To Data base By use Field Value
+ </summary>
+	<param name="pErr">Error Message</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.updRec(System.String,System.String,System.String@)">
+	<summary>
+ Update Recode in Database By use Field Value
+ </summary>
+	<param name="strWhere">Condition for update</param>
+	<param name="strSet">ข้อมูลที่ต้องการ update ถ้าไม่กำหนด คือเอาทุก Field</param>
+	<param name="pErr">Error Message</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.delRec(System.String)">
+	<summary>
+ Delete Data in Database 
+ </summary>
+	<param name="strWhere">เงือนไขในการลบ</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getRec(System.String,System.String,System.String)">
+	<summary>
+ ค้นหาข้อมูลจาก Database
+ </summary>
+	<param name="strWhere">ถ้าไม่กำหนดคือเอาทุกเงือนไข</param>
+	<param name="strColumns">ถ้าไม่กำหนดคือเอาทุก Coloumns</param>
+	<param name="strOrder">Sord Columns</param>
+	<returns>Data Table</returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getRec(System.String,System.Collections.Hashtable,System.String,System.String)">
+	<summary>
+ ค้นหาข้อมูลจาก Database
+ </summary>
+	<param name="strWhere">ถ้าไม่กำหนดคือเอาทุกเงือนไข</param>
+	<param name="strColumns">ถ้าไม่กำหนดคือเอาทุก Coloumns</param>
+	<param name="strOrder">Sord Columns</param>
+	<returns>Data Table</returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getMaxField(System.String,System.String)">
+	<summary>
+ ใช้ในการหาค่า Max Value ของ Field ที่กำหนด
+ </summary>
+	<param name="sField">Field Name ที่ต้องการหาค่า Max</param>
+	<param name="sWhere">เงือนไขในการหาค่า Max</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getInsStr">
+	<summary>
+ Create Query for insert Data
+ </summary>
+	<returns>Query For Insert Data</returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getUpdStr(System.String,System.String)">
+	<summary>
+ Create Query for update data
+ </summary>
+	<param name="strWhere">Where Condition</param>
+	<param name="strSet">Set Value ถ้าไม่กำหนด คือ Update ทุก Columns</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getDelStr(System.String)">
+	<summary>
+ Create Query for Delete Data
+ </summary>
+	<param name="strWhere">Where Condition</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.getSelStr(System.String,System.String,System.String)">
+	<summary>
+ Create Query for Select Data
+ </summary>
+	<param name="strWhere">Where Condition</param>
+	<param name="strCollumn">กำหนด Column ที่จะค้นหา ถ้าไม่กำหนด คือเอาหมด</param>
+	<param name="strOrder">Sort Data</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.makeWhere">
+	<summary>
+ สร้างเงือนไขการค้นหาตาม Primary Key
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.DAO.daoBase.makeWhere(System.String@,System.Collections.Hashtable@)">
+	<summary>
+ สร้างเงือนไขการค้นหาตาม Primary Key
+ </summary>
+	<param name="sWhere">เงือนไขที่ได้สำหรับการ Where</param>
+	<param name="pParam">Parameter ที่จำเป็นในการ Where</param>
+	<returns>True : OK , False : Create Where Error</returns>
+	<remarks></remarks>
+</member><member name="F:TKD_Poomse.clsCForm.bCon">
+	<summary>
+ รันแบบต่อกับฐานข้อมูล
+ </summary>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.ConnDb">
+	<summary>
+ รันแบบต่อกับฐานข้อมูล
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.SoundId">
+	<summary>
+ Set Sound ID 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.RoundTime">
+	<summary>
+ เวลาในการแข่งขันแต่ละรอบ เป็น วินาที
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:TKD_Poomse.clsCForm.iNowTime">
+	<summary>
+ เวลาแข่งขันปัจจุบัน เป็น วินาที
+ </summary>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.RoundRun">
+	<summary>
+ รอบปัจจุบันที่กำลังจะทำการแข่งขัน
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.K">
+	<summary>
+ Get or Set K Value
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.K2">
+	<summary>
+ Get or Set K2 Value
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.JudeCount">
+	<summary>
+ จำนวนของ มุมที่กรรมการอยู่
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.AccOrigin">
+	<summary>
+ Set or Get Acc Origin
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.AccCut">
+	<summary>
+ Set or Get Acc Cut
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.PreOrigin">
+	<summary>
+ Set or Get Pre Origin
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.PreCut">
+	<summary>
+ Set or Get Pre Cut
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.Athlete">
+	<summary>
+ ชือผู้ที่จะเข้าแข่งขัน
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TKD_Poomse.clsCForm.TeamName">
+	<summary>
+ Set up Team Name
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.Update_K_Value">
+	<summary>
+ Update K Value To Screen
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.Update_K2_Value">
+	<summary>
+ Update K2 Value To Screen
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.Show">
+	<summary>
+ Start Program
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.FinalScore(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Get Final Score By Joy
+ </summary>
+	<param name="JoyNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.AccScore(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Get Acc Score By Joy
+ </summary>
+	<param name="JoyNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.PreScore(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Get Pre Score By Joy
+ </summary>
+	<param name="JoyNo"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.UpdateFinalScore">
+	<summary>
+ Update Final Score when end time and save to DB
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.ResetFinalScore">
+	<summary>
+ Reset Final Score to empty
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.ResetScoreAll">
+	<summary>
+ Reset Score value and update to screen
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Update Score to Screen
+ </summary>
+	<param name="JoyNo"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore_Joy1">
+	<summary>
+ Update Score Joy 1
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore_Joy2">
+	<summary>
+ Update Joy 2
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore_Joy3">
+	<summary>
+ Update Score Joy 3
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore_Joy4">
+	<summary>
+ Update Score Joy 4
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore_Joy5">
+	<summary>
+ Update Score Joy 5
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore_Joy6">
+	<summary>
+ Update Score Joy 6
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.RefressScore_Joy7">
+	<summary>
+ Update Score Joy 7
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.UpdateStatusOnScreen">
+	<summary>
+ Update Status On Screen
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.UpdateRound">
+	<summary>
+ Update Team ที่แข่งขัน
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.UpdateTeam">
+	<summary>
+ Update Team ที่เข้าแข่งขัน
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.UpdateAhtlete(System.String)">
+	<summary>
+ Update ชือ ผู้เข้าแข่งขัน
+ </summary>
+	<param name="sAthlete"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.UpdateType(System.String,System.String,System.String,System.String)">
+	<summary>
+ Update Header
+ </summary>
+	<param name="sPoomseType">คู่ เดียว ผสม</param>
+	<param name="Age">รุ่นอายุ 8-12 ปี</param>
+	<param name="Sex">ชาย หญิง ผสม</param>
+	<param name="Level">สาย ดำ แดง</param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.ShowTime(System.DateTime)">
+	<summary>
+ แสดง เวลา Update
+ </summary>
+	<param name="Time"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.UnComfirmJoy(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Set Uncomfirem By Joy NO
+ </summary>
+	<param name="JoyNo"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.ComfirmJoy(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Comfirm Joy By Joy No
+ </summary>
+	<param name="JoyNo"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.ShowJoyToOutForm(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Comfirm Joy By Joy No
+ </summary>
+	<param name="JoyNo"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.ClearComfiremJoyAll">
+	<summary>
+ Clear Comfirem ของทุก Joy
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.ClearComfiremJoy(TKD_Poomse.EnumData.JoyId)">
+	<summary>
+ Clear Comfirem Joy By Joy No
+ </summary>
+	<param name="JoyNo"></param>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetFinalScore">
+	<summary>
+ คำนวน Final Score ทุกแบบ + คิดค่า K
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetFinalScoreFor_7_Jude">
+	<summary>
+ คำนวน Final Score ของ 7 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetFinalScoreFor_5_Jude">
+	<summary>
+ คำนวน Final Score ของ 5 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetFinalScoreFor_3_Jude">
+	<summary>
+ คำนวน Final Score ของ 3 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetFinalScoreFor_1_Jude">
+	<summary>
+ คำนวน Final Score ของ 1 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetAccScore">
+	<summary>
+ คำนวน Final Score ทุกแบบ + คิดค่า K
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetAccScoreFor_1_Jude">
+	<summary>
+ คำนวน Acc Score ของ 1 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetAccScoreFor_3_Jude">
+	<summary>
+ คำนวน Acc Score ของ 3 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetAccScoreFor_5_Jude">
+	<summary>
+ คำนวน Acc Score ของ 5 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetAccScoreFor_7_Jude">
+	<summary>
+ คำนวน Acc Score ของ 7 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetPreScore">
+	<summary>
+ คำนวน Final Score ทุกแบบ + คิดค่า K
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetPreScoreFor_1_Jude">
+	<summary>
+ คำนวน Pre Score ของ 1 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetPreScoreFor_3_Jude">
+	<summary>
+ คำนวน Pre Score ของ 3 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetPreScoreFor_5_Jude">
+	<summary>
+ คำนวน Pre Score ของ 5 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsCForm.GetPreScoreFor_7_Jude">
+	<summary>
+ คำนวน Pre Score ของ 7 Joy
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TKD_Poomse.clsJoy.getInput">
+	<summary>
+ Get Event From JoyStick 
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

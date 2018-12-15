@@ -1,0 +1,206 @@
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+C:\Documents and Settings\Administrator\Desktop\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+C:\Users\master nut\Desktop\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+C:\Users\Administrator\Desktop\v5 sql+score+poose\ส่งงาน TKD\TKD_Poomse use joy\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+F:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+G:\ส่งงาน TKD\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+F:\Rat_Data\TKD Project\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\bin\Debug\Microsoft.DirectX.dll
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+F:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+G:\Work TKD\Update Detail 20150218\SCORE-POOMSE-CODE\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+F:\งาน\เทควันโด\หน้าจอแสดงคะแนน poomsae\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+D:\all program random\==5 score poom+data\scorepoomsae+time\PoomseaScore\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+F:\งาน\เทควันโด\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+C:\Users\sonyfighting\Downloads\scorepoomRR\5judge+time\5judge+time\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+C:\Users\B-Dell\Desktop\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+G:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.exe
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.xml
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.pdb
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.exe
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.pdb
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\bin\Debug\TKD_Poomse.xml
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\ResolveAssemblyReference.cache
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Form1.resources
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmControlSet.resources
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmInput_Serial.resources
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenControl.resources
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.frmScreenShow.resources
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.Resources.resources
+F:\==--2020--===\scorePOOMSAE dance\TKD_Poomse\TKD_Poomse\obj\Debug\TKD_Poomse.vbproj.GenerateResource.Cache
